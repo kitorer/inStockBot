@@ -1,0 +1,2 @@
+//hard code in the pages I want to be checking
+//send email if there are any updates
