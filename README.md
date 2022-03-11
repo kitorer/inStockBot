@@ -9,7 +9,7 @@
 * [?] get it working with amazon
 * [x] get it working with best buy
 * [nah] send email notifications
-fix the telegram function, make sure it actually grabs the chat ids and prevent duplicates
+*fix the telegram function, make sure it actually grabs the chat ids and prevent duplicates
 ## Stretch
 * [x] hook it up to a telegram bot
 * [ ] make it work as a website
