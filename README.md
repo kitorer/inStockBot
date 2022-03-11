@@ -4,11 +4,10 @@
 ## TODO
 
 * [x] download and parse
-* [ ] get it working with amazon
-* [ ] get it working with best buy
-* [ ] send email notifications
-* [ ] hook it up to a telegram bot
+* [?] get it working with amazon
+* [x] get it working with best buy
+* [nah] send email notifications
 
 ## Stretch
-* [ ] hook it up to a telegram bot
+* [x] hook it up to a telegram bot
 * [ ] make it work as a website
