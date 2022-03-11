@@ -4,6 +4,7 @@
 ## TODO
 
 * [x] download and parse
+* [x] get it to return links
 * [?] get it working with amazon
 * [x] get it working with best buy
 * [nah] send email notifications
