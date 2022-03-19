@@ -1,6 +1,7 @@
 # inStockBot
  *checks for keywords on a specific webpage
  *put in url and keyword and email to get an email notification when available
+ *put in your own bot id for telegram notifications
  purpose of this was to give me notifications on best buy cancelled orders
 ## TODO
 
